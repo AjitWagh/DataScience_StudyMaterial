@@ -1,19 +1,37 @@
 ### Microdoft Cognitive Toolkit :- CNTK ###
-Overview:-
+***Overview***
+
+Microsoft Cognitive Toolkit,[2] previously known as CNTK and sometimes styled as The Microsoft Cognitive Toolkit, is a deep learning framework developed by Microsoft Research. Microsoft Cognitive Toolkit describes neural networks as a series of computational steps via a directed graph.
+
+The Microsoft Cognitive Toolkit (https://cntk.ai) is a unified deep learning toolkit that describes neural networks as a series of computational steps via a directed graph. In this directed graph, leaf nodes represent input values or network parameters, while other nodes represent matrix operations upon their inputs. CNTK allows users to easily realize and combine popular model types such as feed-forward DNNs, convolutional nets (CNNs), and recurrent networks (RNNs/LSTMs). It implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers. CNTK has been available under an open-source license since April 2015. It is our hope that the community will take advantage of CNTK to share ideas more quickly through the exchange of open source working code.
+
 The Microsoft Cognitive Toolkit (CNTK) is an open-source toolkit for commercial-grade distributed deep learning. 
+
 CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs).
-CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers.
+
 The latest release of CNTK is 2.6.
+
 CNTK can be included as a library in your Python, C#, or C++ programs, or used as a standalone machine-learning tool through its own model description language (BrainScript). 
+
 CNTK supports 64-bit Linux or 64-bit Windows operating systems. 
+
 CNTK is also one of the first deep-learning toolkits to support the Open Neural Network Exchange ONNX(it is a open format to represent deep learning models) format, an open-source shared model representation for framework interoperability and shared optimization. 
 
-Installing CNTK:-linux
+***Installing CNTK on windows and linux:-linux()need to check on it***
 required packages : sudo apt-get install openmpi-bin
 pip install cntk
 pip install --upgrade --no-deps cntk-gpu
 
-Using CNTK from python:- 
+
+
+
+
+
+
+
+
+
+
 
 
 
