@@ -1,0 +1,81 @@
+###Tableue Basic Tutorials###
+
+1. Tableau Data Science Tutorial 1 | K Means Clustering on IRIS data | Clustering algorithm
+
+  simply find out similarities between group of data sets by ML clustering
+  If we have data sets we used to cluster it in tableue
+  There will be multiple clusters you can name it as per business understanding so that data will make some sense
+  Also we can find out how many values are right or wrong
+  It is also imp to identify how many values are right or wrong : in this we can find out accuracy of values(clusters) by calculating field(sheet).
+  Also we can create dashboard to see Details like : ML Clusters,Real Values,Accuracy
+ 
+Note : Unsupervised data set : It means we do not know anything about data set.
+
+What we learn : what is clustering,we took the IRIS data to create a cluster to identify the 3 different species of flower
+
+2. Tableau Data Science Tutorial 2 | K Means Clustering on Titanic data | Clustering algorithm
+
+Titanic data : One of the very famous ML data set.
+
+This way you can experiment the data and you can experiment the variable, create a different views and finally consolidate a view,you can create either a dashboard or may be a story to basially drag your sheet and try to create a story based on your observations what are the variables that are really contributing to identify the good clusters what are those clusters.
+
+3. How To create Linear Regression Model in Tableau : Boston housing data set
+
+Tableue internal machine algos
+Linear Regression - The Objective of Linear Regression is to fit the best line by minimizing the errors.
+
+The idea behind LR is that the two variables of our interests for which we want to do the predictions they should be linearly corelated.
+
+We will learn how to create straigh forward linear line in Tableue.
+
+4. Exercise for creating Linear Regression Model in Tableau
+
+Tableue Internal Ml Algos
+Linear Regression - Excercise
+
+5. Solution to Tableau Linear Regression Exercise
+
+6. How to Create Correlation Matrix in Tableau 
+
+Correlation matrix with the variables.
+
+7. How to connect Tableau with R | Tableau R Integration examples
+
+In this tutorial we will learn how to integrate tableue with R.
+
+Integrating Tableue and R :
+
+# Rserve Package in R helps establishthe connection between R and Tableue
+# Tableue pass the R code via script
+# R Processes the data via the live connection(that we have established,we have that Rserve Package) and return the output.
+
+Steps: In R Frame or Tool
+
+>library(Rserve) or go to packages and selct Rserve package(It will be loaded).
+
+Once it is loaded need to run the function that is Rserver() - it will start the Rserve service
+
+>Rserve()
+
+After that just go to the tableue tool and use sample sata source which will be already default there.And then go to help->setting and performance->manage external connection :- put server:localhost port:6311 and click on test connection and then ok.
+
+Once it is done you can start with passing the arguments,before that go through below syntax overview: 
+
+There are four different functions(SCRIPT_BOOL,SCRIPT_INT,SCRIPT_REAL,SCRIPT_STR) one of the function we are going to use is SCRIPT_REAL(it returns the real value)
+
+Syntax Overview: 
+
+SCRIPT_REAL("
+.arg1+.arg2
+",sum(sales),sum(profit))
+
+
+
+
+
+
+
+
+
+
+
