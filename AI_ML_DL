@@ -1,0 +1,91 @@
+=====================================================================AI_ML_DL========================================================================
+
+Artificial intelligence is a broader concept than machine learning, which addresses the use of computers to mimic the cognitive functions of humans. When machines carry out tasks based on algorithms in an “intelligent” manner, that is AI.
+
+Machine learning is a subset of AI and focuses on the ability of machines to receive a set of data and learn for themselves, changing algorithms as they learn more about the information they are processing. Training computers to think like humans is achieved partly through the use of neural networks.
+
+Before we can even define AI or machine learning, though, I want to take a step back and define a concept that is at the core of both AI and machine learning: algorithm. :-
+
+What Is an Algorithm? =>
+An algorithm is a set of rules to be followed when solving problems. In machine learning, algorithms take in data and perform calculations to find an answer. The calculations can be very simple or they can be more on the complex side. Algorithms should deliver the correct answer in the most efficient manner. What good is an algorithm if it takes longer than a human would to analyze the data? What good is it if it provides incorrect information?
+Algorithms need to be trained to learn how to classify and process information. The efficiency and accuracy of the algorithm are dependent on how well the algorithm was trained. Using an algorithm to calculate something does not automatically mean machine learning or AI was being used. All squares are rectangles, but not all rectangles are squares.
+Unfortunately, today, we often see the machine learning and AI buzzwords being thrown around to indicate that an algorithm was used to analyze data and make a prediction. Using an algorithm to predict an outcome of an event is not machine learning. Using the outcome of your prediction to improve future predictions is.
+
+### Artificial Intelligence vs. Machine Learning vs. Deep Learning ###
+
+AI and machine learning are often used interchangeably, especially in the realm of big data. But these aren’t the same thing, and it is important to understand how these can be applied differently.  
+Artificial intelligence is a broader concept than machine learning, which addresses the use of computers to mimic the cognitive functions of humans. When machines carry out tasks based on algorithms in an “intelligent” manner, that is AI. Machine learning is a subset of AI and focuses on the ability of machines to receive a set of data and learn for themselves, changing algorithms as they learn more about the information they are processing.
+Training computers to think like humans is achieved partly through the use of neural networks. Neural networks are a series of algorithms modeled after the human brain. Just as the brain can recognize patterns and help us categorize and classify information, neural networks do the same for computers. The brain is constantly trying to make sense of the information it is processing, and to do this, it labels and assigns items to categories. When we encounter something new, we try to compare it to a known item to help us understand and make sense of it. Neural networks do the same for computers.
+
+Benefits of neural networks:-
+
+Extract meaning from complicated data
+Detect trends and identify patterns too complex for humans to notice
+Learn by example
+Speed advantages
+
+Deep learning goes yet another level deeper and can be considered a subset of machine learning. The concept of deep learning is sometimes just referred to as "deep neural networks," referring to the many layers involved. A neural network may only have a single layer of data, while a deep neural network has two or more. The layers can be seen as a nested hierarchy of related concepts or decision trees. The answer to one question leads to a set of deeper related questions.
+
+Deep learning networks need to see large quantities of items in order to be trained. Instead of being programmed with the edges that define items, the systems learn from exposure to millions of data points. An early example of this is the Google Brain learning to recognize cats after being shown over ten million images. Deep learning networks do not need to be programmed with the criteria that define items; they are able to identify edges through being exposed to large amounts of data.
+
+Data Is at the Heart of the Matter
+Whether you are using an algorithm, artificial intelligence, or machine learning, one thing is certain: if the data being used is flawed, then the insights and information extracted will be flawed. What is data cleansing?
+
+### Data Cleansing ###
+
+“The process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect or irrelevant parts of the data and then replacing, modifying or deleting the dirty or coarse data.”
+
+
+### Machine Learning ###
+
+What is machine learning? :-
+
+Here’s a basic definition of machine learning:
+
+“Algorithms that parse data, learn from that data, and then apply what they’ve learned to make informed decisions”
+
+An easy example of a machine learning algorithm is an on-demand music streaming service. For the service to make a decision about which new songs or artists to recommend to a listener, machine learning algorithms associate the listener’s preferences with other listeners who have similar musical taste.
+
+Machine learning fuels all sorts of automated tasks and spans across multiple industries, from data security firms hunting down malware to finance professionals looking out for favorable trades. They’re designed to work like virtual personal assistants, and they work quite well.
+
+Machine learning is a lot of complex math and coding that, at the end of day, serves a mechanical function the same way a flashlight, a car, or a television does. When something is capable of “machine learning”, it means it’s performing a function with the data given to it, and gets progressively better at that function. It’s like if you had a flashlight that turned on whenever you said “it’s dark”, so it would recognize different phrases containing the word “dark”.
+
+### Deep Learning ###
+
+A deep learning model is designed to continually analyze data with a logic structure similar to how a human would draw conclusions. To achieve this, deep learning uses a layered structure of algorithms called an artificial neural network (ANN). The design of an ANN is inspired by the biological neural network of the human brain. This makes for machine intelligence that’s far more capable than that of standard machine learning models.
+
+Deep Learning is an artificial intelligence function that imitates the workings of the human brain in processing data and creating patterns for use in decision making. Deep learning is a subset of machine learning in Artificial Intelligence (AI) that has networks capable of learning unsupervised from data that is unstructured or unlabeled.
+
+A great example of deep learning is Google’s AlphaGo. Google created a computer program that learned to play the abstract board game called Go, a game known for requiring sharp intellect and intuition. By playing against professional Go players, AlphaGo’s deep learning model learned how to play at a level not seen before in artificial intelligence, and all without being told when it should made a specific move (as it would with a standard machine learning model). It caused quite a stir when AlphaGo defeated multiple world-renowned “masters” of the game; not only could a machine grasp the complex and abstract aspects of the game, it was becoming one of the greatest players of it as well.
+
+### Pointwise difference between ML and DL ###
+
+Machine learning uses algorithms to parse data, learn from that data, and make informed decisions based on what it has learned
+
+Deep learning structures algorithms in layers to create an “artificial neural network” that can learn and make intelligent decisions on its own
+
+Deep learning is a subfield of machine learning. While both fall under the broad category of artificial intelligence, deep learning is what powers the most human-like artificial intelligence
+
+###One word explaination of Every Important concept ###
+
+As a whole, artificial intelligence contains many subfields, including:
+
+Machine learning automates analytical model building. It uses methods from neural networks, statistics, operations research and physics to find hidden insights in data without being explicitly programmed where to look or what to conclude.
+
+A neural network is a kind of machine learning inspired by the workings of the human brain. It’s a computing system made up of interconnected units (like neurons) that processes information by responding to external inputs, relaying information between each unit. The process requires multiple passes at the data to find connections and derive meaning from undefined data.
+
+Deep learning uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data. Common applications include image and speech recognition.
+
+Computer vision relies on pattern recognition and deep learning to recognize what’s in a picture or video. When machines can process, analyze and understand images, they can capture images or videos in real time and interpret their surroundings.
+
+Natural language processing is the ability of computers to analyze, understand and generate human language, including speech. The next stage of NLP is natural language interaction, which allows humans to communicate with computers using normal, everyday language to perform tasks.
+
+
+
+
+
+
+
+
+
+
